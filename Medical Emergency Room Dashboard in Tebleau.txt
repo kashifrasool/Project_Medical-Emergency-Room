@@ -1,0 +1,3 @@
+In this projact; I have built dashboard of Hospital'sMedical Emergency Room using the Tableau.
+
+Kashif Rasool
