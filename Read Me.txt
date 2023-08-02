@@ -3,4 +3,13 @@ Project Title: Medical Emergency Room Dashboard in Tebleau
 
 In this projact; I have built dashboard of Hospital's Medical Emergency Room using the Tableau.
 
+This dashboard shows following information regards to Medical Emergency Room:
+
+1.No. of Patients visiting Emergency Room
+2. Patients and its gender
+3. Patients satisfaction
+4. Patients average waiting time in Emergency Room
+5. Age group of patients visiting ER 
+6. 
+
 Kashif Rasool
