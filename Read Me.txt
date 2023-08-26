@@ -14,4 +14,4 @@ This dashboard shows following information regards to Medical Emergency Room:
 
 Kashif Rasool
 
-Link: https://public.tableau.com/app/profile/kashif.rasool/viz/MedicalEmergencyRoomDashboard-KashifRasool/Dashboard1
+Link to check Dashboard: https://public.tableau.com/app/profile/kashif.rasool/viz/MedicalEmergencyRoomDashboard-KashifRasool/Dashboard1
